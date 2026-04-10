@@ -1,0 +1,12 @@
+.imagens {
+    width: 300px;           /* Largura fixa */
+    height: 200px;          /* Altura fixa */
+    object-fit: cover;      /* Recorta para preencher sem distorcer */
+    object-position: center; /* Centraliza a imagem */
+  }
+
+img .foto_principal{
+    width: 500px;
+    height: 400px;
+}
+  
