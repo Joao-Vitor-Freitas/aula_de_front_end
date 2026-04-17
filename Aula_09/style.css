@@ -9,4 +9,9 @@ img .foto_principal{
     width: 500px;
     height: 400px;
 }
+
+ul{
+  list-style-type: none;
+  padding: 0;
+}
   
